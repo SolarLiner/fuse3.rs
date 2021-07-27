@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../fuse3">
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/fuse3-dev/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/fuse3-dev/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/fuse3-dev/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/fuse3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/bindgen-438f2c7f2fb0a775/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/bitflags-88b50a288ea9b589/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/clang-sys-5a488358b0ed0035/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/fuse3-dev-180231c50870218e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/fuse3-dev-46fd23dcbda3fa11/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/fuse3-dev-6f6df9f06fb4e3ce/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/libc-249f6d2c6cbe9c0b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/libc-67dc9cd9f0d8007e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/log-b2f9ca3e842d2257/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/memchr-bd435ecf4cb3b273/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/memoffset-235ac8b3550fb50a/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/nom-9cd8eb01255faf05/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/proc-macro2-71d23794e418c4b0/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/proc-macro2-8d2ddc1d7de9667b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../fuse3/target/debug/build/radium-f58df3ebc129f1a9/out" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../fuse3/fuse3-dev/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../fuse3/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

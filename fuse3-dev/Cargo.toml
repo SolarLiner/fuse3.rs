@@ -1,0 +1,18 @@
+[package]
+name = "fuse3-dev"
+link = "fuse3"
+version = "0.1.0"
+authors = ["Nathan Graule <solarliner@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nix = "0.22"
+
+[build-dependencies]
+bindgen = "0.59"
+pkg-config = "0.3"
+
+[dev-dependencies]
+lazy_static = "1.4"
+nix = "0.22"
+structopt = "0.3"
