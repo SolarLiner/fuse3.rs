@@ -1,4 +1,4 @@
-# fuse3.rs
+# fuse3.rs [![Rust](https://github.com/SolarLiner/fuse3.rs/actions/workflows/rust.yml/badge.svg)](https://github.com/SolarLiner/fuse3.rs/actions/workflows/rust.yml)
 
 FUSE is a library that allows programs to implement file-systems in user-space.
 
