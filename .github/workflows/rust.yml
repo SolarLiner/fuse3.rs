@@ -26,5 +26,8 @@ jobs:
       run: sudo apt install -y libfuse3-dev
     - name: Install clippy
       run: rustup component add clippy
-    - name: Run tests
-      run: cargo clippy
+    - name: Lint
+      uses: actions-rs/clippy-check@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
