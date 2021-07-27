@@ -41,7 +41,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: cargo-bloat
+      - name: System dependencies
+        run: sudo apt install -y libfuse3-dev
+      - name: Bloat
         uses: orf/cargo-bloat-action@v1
 
 
